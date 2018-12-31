@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Faux-Finance-Mobile",
+    "name": "Faux Finance Mobile",
     "slug": "Faux-Finance-Mobile",
     "privacy": "public",
     "sdkVersion": "31.0.0",
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "This app is meant to provide users with the ability to \"buy\" and \"sell\" stocks with their real time prices, and see how their portfolio does. Each user starts with $10,000 and is able to purchase shares of any stock that the IEX API provides. Users must first register, which can be done either through the app or the website, and are then able to use the same account info to log in and trade either on the web @ https://faux-finance.herokuapp.com/ or on the mobile app.",
+    "githubUrl": "https://github.com/cruzach/fauxFinanceMobileApp"
   }
 }
